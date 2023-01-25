@@ -1,0 +1,2 @@
+# diabetes_prediction
+Elewayte_Artificial_Intelligense-(major_project)
